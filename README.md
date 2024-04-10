@@ -1,12 +1,5 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# Project based on Valem's VR-Game-Jam-Template and External Ressources
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
-
-https://youtu.be/apnfGuMI0Dc
-
-# External Ressources
 This project uses a combination of these assets and tutorials :
 
 https://youtu.be/6OT43pvUyfY
